@@ -1000,7 +1000,7 @@ Join our development group by sending /join 1047524697 to [@TeleSeed](https://te
 
 # Special thanks to
 
-[imandaneshi](https://github.com/imandaneshi)
+[imandaneshi](https://github.com/Imandaneshi)
 
 [Alphonse](https://github.com/hmon)
 
