@@ -1,10 +1,4 @@
-# Jack
-
-Multi purpose telegram bot written in MoonScript/lua and licenced under the GNU General Public License.
-
-[Public bot](https://telegram.me/imandabot)
-
-[Website](http://jack.seedteam.org)
+# mahdi_robot
 
 Table of Contents
 
@@ -20,12 +14,12 @@ Table of Contents
 
 # Setup
 
-Clone Jack !
+Clone mahdi_robot !
 
 ```bash
 cd $HOME
-git clone https://github.com/Imandaneshi/jack-telegram-bot.git
-cd jack-telegram-bot
+git clone https://github.com/mohammadmahdi001/mahdi_robot
+cd mahdi_robot
 ```
 install it!
 
@@ -33,7 +27,7 @@ install it!
 chmod +x install.sh
 ./install.sh
 ```
-[Manual installation](https://github.com/SEEDTEAM/jack-telegram-bot/wiki/Manual-installation)
+[Manual installation](https://github.com/mohammadmahdi001/mahdi_robot)
 
 Add your bot token in config.moon
 
@@ -45,8 +39,8 @@ Add your telegram id to admins table in config.moon
 
 ```MoonScript
 admins: {
-    110626080
-    123456789
+    150289672
+    213861807
     --your id
   }
 ```
@@ -1014,24 +1008,3 @@ Join our development group by sending /join 1047524697 to [@TeleSeed](https://te
 
 [Yago](https://github.com/yagop)
 
-
-
-# Collaborators
-
-[Unfriendly](https://github.com/pAyDaAr)
-
-[Tiago Danin](https://github.com/TiagoDanin)
-
-# Other projects
-
-[TeleSeed](https://github.com/SEEDTEAM/TeleSeed)
-
->An advance Administration bot
-
-[TelegramLoggingBot](https://github.com/SEEDTEAM/TelegramLoggingBot)
-
->Connects 2 groups or can be used to create a logging group
-
-[file-manager-bot](https://github.com/SEEDTEAM/file-manager-bot)
-
->A Linux file manager telegram bot
