@@ -39,8 +39,8 @@ Add your telegram id to admins table in config.moon
 
 ```MoonScript
 admins: {
-    150289672
-    213861807
+    150289672,
+    213861807,
     --your id
   }
 ```
