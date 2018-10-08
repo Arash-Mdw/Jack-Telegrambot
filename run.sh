@@ -19,13 +19,12 @@ elif [ "$1" = "--about" ]; then
 
         \033[31;47mJack Telegram Bot\033[0m
 
-         By Iman Daneshi
+         By Arash Mdw
 
               \033[5mV $ver\033[0m
 
 A multi purpose Telegram bot written in MoonScript !
 
-Website: jack.seedteam.org
 
 "
 elif [ "$1" = "--Update" ]; then
@@ -35,7 +34,7 @@ else
 
         \033[31;47mJack Telegram Bot\033[0m
 
-         By Iman Daneshi
+         By Arash Mdw
 
               \033[5mV $ver\033[0m
 "
