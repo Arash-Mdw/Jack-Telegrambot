@@ -12,8 +12,8 @@ parameters = {
 	["lastfm"]: "[%s](http://www.lastfm.com/user/%s)\n"
 }
 patterns = {
-	"^[#!/](me)$"
-	"^###inline[!/#](me)"
+	"^[#!/](myinfo)$"
+	"^###inline[!/#](myinfo)"
 }
 is_parameter = (q) ->
 	var = false
@@ -27,7 +27,7 @@ for k,v in pairs parameters
 	table.insert patterns, pattern
 
 run = (msg,matches) ->
-	if matches[1] == "me"
+	if matches[1] == "myinfo"
 		msg = msg.reply_to_message if msg.reply_to_message and matches[2] == nil
 		if matches[2] and matches[2] and matches[3] ~= "del"
 			if is_parameter matches[2]
