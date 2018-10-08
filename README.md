@@ -1,4 +1,4 @@
-# mahdi_robot
+# Jack Telegram BOT
 
 Table of Contents
 
@@ -14,7 +14,7 @@ Table of Contents
 
 # Setup
 
-Clone mahdi_robot !
+Clone Jack Telegram Bot !
 
 ```bash
 cd $HOME
