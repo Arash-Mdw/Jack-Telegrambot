@@ -18,8 +18,8 @@ Clone Jack Telegram Bot !
 
 ```bash
 cd $HOME
-git clone https://github.com/mohammadmahdi001/mahdi_robot
-cd mahdi_robot
+git clone https://github.com/Arash-Mdw/Jack-telegram-bot
+cd Jack-telegrambot
 ```
 install it!
 
@@ -27,7 +27,7 @@ install it!
 chmod +x install.sh
 ./install.sh
 ```
-[Manual installation](https://github.com/mohammadmahdi001/mahdi_robot)
+[Manual installation](https://github.com/Arash-Mdw/Jack-telegrambot)
 
 Add your bot token in config.moon
 
